@@ -6,7 +6,7 @@ import socket
 import json
 
 # Set up your credentials from http://apps.twitter.com
-consumer_key    = 'vHoPSHjSmNcJ5PV0sgmanz46i'
+consumer_key    = 'vHoPSHjSmNcJ5PV0sgmanz46'
 consumer_secret = '1xcHTuHwO9LnFiTYNkzRdg2VbS4HwN4qPBrQ0Vg3StFsK6L5WJ'
 access_token    = '1268705033337651200-iCmApCYwLefGws2aOIHyR0ZaM7f3sa'
 access_secret   = '4UNU43yeevTrfC7yBdvmVfbe13nQqblARc4lc3JKz7ms3'
